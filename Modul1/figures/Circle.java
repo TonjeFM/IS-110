@@ -164,6 +164,11 @@ public class Circle
         color = newColor;
         draw();
     }
+    
+    public String getColor()     
+    {         
+        return color;     
+    }
 
     /**
      * Draw the circle with current specifications on screen.
