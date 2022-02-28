@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Spells
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Spells\ here.\r\n\r\n\ @author\ Tonje\ Markseth\r\n\ @version\ 28.02.2022\r\n
+comment1.params=
+comment1.target=Spells()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Spells\r\n
+comment2.params=
+comment2.target=void\ start()
+comment3.params=spells
+comment3.target=java.lang.String\ generateSpell(java.util.HashSet)
+comment3.text=\r\n\ @param\ The\ user\ types\ a\ String\ which\ is\ used\ in\ getInput()\r\n\ @return\ Returns\ a\ random\ spell\r\n
+comment4.params=
+comment4.target=java.util.HashSet\ getInput()
+comment4.text=\r\n\ @return\ \ Returns\ a\ String(spell)\ that\ the\ user\ has\ typed\ in\ \r\n
+comment5.params=
+comment5.target=void\ fillSpellMap()
+comment5.text=\r\n\ Keywords\ (spells)\ and\ their\ information\ in\ a\ spell\ map.\r\n
+comment6.params=
+comment6.target=void\ randomListOfSpells()
+comment6.text=\r\n\ List\ of\ random\ spells\r\n
+comment7.params=
+comment7.target=java.lang.String\ pickRandomSpell()
+comment7.text=\r\n\ Selects\ a\ spell\ by\ random\ and\ returns\ it\r\n\ @return\ A\ random\ spell\r\n
+numComments=8
