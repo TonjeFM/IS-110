@@ -8,9 +8,9 @@
 public class WizardingCurrency
 {
     // instance variables - replace the example below with your own
-    public int galleon;
-    public int sickle;
-    public int knut;
+    private int galleon;
+    private int sickle;
+    private int knut;
 
     /**
      * Constructor for objects of class WizardingCurrency
